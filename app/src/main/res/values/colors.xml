@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#03a9f4</color>
+    <color name="colorPrimaryDark">#0288d1</color>
+    <color name="colorAccent">#84ffff</color>
+    <color name="lightgreennavibar">#d3ffe7</color>
+    <color name="black_secondary_text">#b3000000</color>
+    <color name="secondary_text_material_light">#8a000000</color>
+    <color name="blue_navi_bar">#6cc5ff</color>
+    <color name="purple_status_bar">#f0d7ff</color>
+    <color name="blue_status_bar">#77c9ff</color>
+    <color name="white_text">#deffffff</color>
+    <color name="purple_text">#de88006d</color>
+    <color name="purple_secondary_text">#8a7e48d1</color>
+    <color name="dark_purple_text">#8a3f00a0</color>
+    <color name="light_red_inverse_text">#ff9494</color>
+    <color name="red_text">#8aff0000</color>
+    <color name="pink_secondary_text">#8aff3f78</color>
+</resources>

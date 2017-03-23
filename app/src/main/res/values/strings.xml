@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name" translatable="false">DiepA3</string>
+    <string name="choose_website">Please choose a website</string>
+    <string name="mesa_college">Mesa College</string>
+    <string name="youtube" translatable="false">YouTube</string>
+    <string name="mesa_college_button">go</string>
+    <string name="youtube_button">go</string>
+</resources>

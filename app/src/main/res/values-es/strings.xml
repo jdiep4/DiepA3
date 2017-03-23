@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DiepA3</string>
+    <string name="choose_website">Por favor elija un sitio web</string>
+    <string name="mesa_college">Escuela Mesa</string>
+    <string name="mesa_college_button">ir</string>
+    <string name="youtube_button">ir</string>
+</resources>

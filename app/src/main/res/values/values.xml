@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="pinkbackground">#a0ffcff1</color>
+    <color name="grayforeground">#dcdcdc</color>
+    <color name="redforeground">#ff0000</color>
+    <color name="pink_background">#ffe4f6</color>
+    <color name="red_foreground">#ffa1a1</color>
+</resources>
